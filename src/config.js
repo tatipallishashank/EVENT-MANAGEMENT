@@ -1,0 +1,23 @@
+export const ADMIN = "admin@admin.com";
+export const CATEGORIES = [
+  "Music",
+  "Concert",
+  "Sports",
+  "Conference",
+  "Workshop",
+  "Art and Culture",
+  "Food and Drink",
+  "Technology",
+  "Comedy",
+  "Education",
+  "Health and Wellness",
+  "Networking",
+  "Fashion",
+  "Film and Television",
+  "Science",
+  "Business and Finance",
+  "Family and Kids",
+  "Travel and Outdoor",
+  "Gaming",
+  "Charity and Causes",
+];
